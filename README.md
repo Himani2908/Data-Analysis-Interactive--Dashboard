@@ -7,7 +7,7 @@ The objective of this project is to develop a Hospital Emergency Room Analysis D
 -	Number of Patients: Track daily ER patient count and identify trends.
 -	Average Wait Time: Monitor average patient waiting time and highlight delays.
 -	Patient Satisfaction Score: Measure daily satisfaction levels to evaluate service quality and detect performance issues.
--	
+	
  ## Charts to Create:
 -	Patient Admission Status: Show how many patients were admitted vs. not admitted.
 -	Patient Age Distribution: Group patients by age.
